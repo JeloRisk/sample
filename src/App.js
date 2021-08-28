@@ -9,7 +9,7 @@ const App = () => {
 		<div className='app-main'>
 			<Card name='Jerome' age={18} course='Computer Science' />
 			<Card name='Alvin' age={19} course='Criminolosgy' />
-			<Card name='Sandee' age={19} course='Bachelor of Special Needs Education' />
+			<Card name='Sandee' age={19} course='Bachelor aof Special Needs Education' />
 			<Card name='Budoy' age={20} course='Information Technology' />
 		</div>
 	);
